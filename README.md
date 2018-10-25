@@ -1,5 +1,6 @@
 [![ReadTheDocs][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![FOSSA Status][fossa-img]][fossa]
 
+
 # Jaeger UI
 
 Visualize distributed tracing with Jaeger.
